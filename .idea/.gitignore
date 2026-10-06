@@ -1,0 +1,11 @@
+# Build output
+target/
+out/
+
+# IntelliJ settings
+.idea/
+*.iml
+
+# Secrets and logs
+.env
+*.log
